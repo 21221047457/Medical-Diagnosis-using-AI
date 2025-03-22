@@ -5,10 +5,10 @@ Medical Diagnosis AI is a web-based application designed to provide *AI-powered 
 
 
 Key Features
-- 🩸 Diabetes Prediction:* Assesses the risk of diabetes based on input parameters such as glucose levels, BMI, age, etc.  
-- 🦋 Thyroid Analysis:* Identifies potential thyroid issues using diagnostic factors.  
-- 🫁 Lung Cancer Detection:* Estimates the likelihood of lung cancer based on symptoms and health indicators.  
-- 🧠 Parkinson's Disease Assessment:* Detects potential signs of Parkinson's disease through a symptom-based analysis.  
+- 🩸 Diabetes Prediction: Assesses the risk of diabetes based on input parameters such as glucose levels, BMI, age, etc.  
+- 🦋 Thyroid Analysis: Identifies potential thyroid issues using diagnostic factors.  
+- 🫁 Lung Cancer Detection: Estimates the likelihood of lung cancer based on symptoms and health indicators.  
+- 🧠 Parkinson's Disease Assessment: Detects potential signs of Parkinson's disease through a symptom-based analysis.  
 
 
 
@@ -27,10 +27,10 @@ Key Features
 
 
 
-🚀 *Future Enhancements
+🚀 Future Enhancements
 - Integration with real medical databases for improved accuracy.  
 - Incorporation of ML models for predictive diagnostics.  
-- *Patient history tracking for recurring assessments.  
+- Patient history tracking for recurring assessments.  
 - Multi-language support for broader accessibility.  
 
 
