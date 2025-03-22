@@ -1,7 +1,3 @@
- Medical-Diagnosis-using-AI
-Here's a detailed description of your *Medical Diagnosis AI* project that you can upload to GitHub under the *Description* column:
-
-
 
  🏥 Medical Diagnosis AI
 Medical Diagnosis AI is a web-based application designed to provide *AI-powered medical assessments* for four common conditions. It offers users a quick and interactive way to evaluate potential health risks by entering relevant details. 
